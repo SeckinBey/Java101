@@ -20,11 +20,5 @@ public class TaxCalculator {
         System.out.println(String.format("Tax Value : %.2f", tax));
         System.out.println(String.format("Total Price : %.2f", totalPrice));
 
-
-
-
-
-
-
     }
 }
